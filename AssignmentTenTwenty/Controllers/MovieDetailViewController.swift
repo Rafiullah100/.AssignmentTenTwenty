@@ -38,6 +38,7 @@ class MovieDetailViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         playerView.playVideo()
+        print("erkfmr")
     }
     
     override func viewDidLoad() {

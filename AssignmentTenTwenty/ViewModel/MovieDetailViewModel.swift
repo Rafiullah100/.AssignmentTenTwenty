@@ -20,7 +20,6 @@ class MovieDetailViewModel: NSObject {
         self.movieId = movieId
         super.init()
         self.callServices()
-        pri
     }
     
     func callServices() {
