@@ -1,0 +1,6 @@
+framework module Pods_AssignmentTenTwenty_AssignmentTenTwentyUITests {
+  umbrella header "Pods-AssignmentTenTwenty-AssignmentTenTwentyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
